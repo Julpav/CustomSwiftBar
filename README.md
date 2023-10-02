@@ -4,7 +4,7 @@
 
 SwiftBar is a Roblox Studio plugin which is designed to replicate a spotlight search bar (as seen in MacOS and other operating systems), with more than just a search feature.
 
-[Looking for general info?](https://devforum.roblox.com/t/swiftbar-plugin/2562551)
+[Looking for general info?](https://github.com/Julpav/SwiftBar)
 
 ### Want to open SwiftBar?
 ```bash
